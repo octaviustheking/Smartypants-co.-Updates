@@ -7,11 +7,14 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>9/12/2020 6:03 pm</h2>
+        <p>Quiz for Volume Three is launched</p>
+        <h2>9/9/2020 6:20 pm</h2>
+        <p>Added feedback form</p>
       <h2>9/8/2020  7:12 pm</h2>
       <p>New Volumes added<br>Includes Volume 1 - 3<br>Quiz for Volume Two is launched<br>Quiz for Volume Three in progress</p>
-       <h2>9/9/2020 6:20</h2>
-        <p>Added feedback form</p>
-         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a>
+        <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a>
+       
 
 
     </body>

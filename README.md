@@ -7,6 +7,8 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h1>9/16/20 6:02 pm</h1>
+        <p>Added Author Names</p>
         <h2>9/12/2020 6:03 pm</h2>
         <p>Quiz for Volume Three is launched</p>
         <h2>9/9/2020 6:20 pm</h2>

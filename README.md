@@ -7,9 +7,9 @@
     </head>
     <body>
       <h1>Updates</h1>
-        <h1>9/20/2020 6:25 pm</h1>
+        <h2>9/20/2020 6:25 pm</h2>
         <p>New Volume Added - Volume Four - Nature</p>        
-        <h1>9/16/20 6:02 pm</h1>
+        <h2>9/16/20 6:02 pm</h2>
         <p>Added Author Names</p>
         <h2>9/12/2020 6:03 pm</h2>
         <p>Quiz for Volume Three is launched</p>

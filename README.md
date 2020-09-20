@@ -7,10 +7,12 @@
     </head>
     <body>
       <h1>Updates</h1>
-        <h2>9/20/2020 6:25 pm</h2>
-        <p>New Volume Added - Volume Four - Nature</p>        
+        <h2>9/20/2020 2:32 pm</h2>
+        <p>Fixed somethings in updates</p>
+        <h2>9/20/2020 2:25 pm</h2>
+        <p>New Volume added - Volume Four - Nature</p>        
         <h2>9/16/2020 6:02 pm</h2>
-        <p>Added Author Names</p>
+        <p>Added author names</p>
         <h2>9/12/2020 6:03 pm</h2>
         <p>Quiz for Volume Three is launched</p>
         <h2>9/9/2020 6:20 pm</h2>

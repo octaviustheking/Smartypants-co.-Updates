@@ -7,9 +7,11 @@
     </head>
     <body>
       <h1>Updates</h1>
-        <h2>9/22/20 11:47</h2>
+        <h2>9/23/2020 11:25 am</h2>
+        <p>Added Monthly Survey and the Order Form for the Smartypants Online Almanac</p>
+        <h2>9/22/2020 11:47 am</h2>
         <p>Added "Extras" heading and added more websites under another heading called "More Websites"<br>Not that creative...</p>
-        <h2>9/22/20 11:28 am</h2>
+        <h2>9/22/2020 11:28 am</h2>
         <p>Volume Five in progress</p>
         <h2>9/20/2020 2:35 pm</h2>
         <p>Fixed grammer mistakes</p>

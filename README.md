@@ -7,6 +7,10 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>9/24/2020 12:50 pm</h2>
+        <p>Changed first physics article</p>
+        <h2>9/24/2020 12:48 pm</h2>
+        <p>Added Smartypants Books</p>
         <h2>9/23/2020 11:25 am</h2>
         <p>Added Monthly Survey and the Order Form for the Smartypants Online Almanac</p>
         <h2>9/22/2020 11:47 am</h2>

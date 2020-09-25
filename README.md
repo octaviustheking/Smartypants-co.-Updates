@@ -7,6 +7,10 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>9/25/2020 11:08 am</h2>
+        <p>New volume coming soon!</p>
+        <h2>9/25/2020 11:06 am</h2>
+        <p>Added 2 new books to Smartypants Books</p>
         <h2>9/24/2020 12:50 pm</h2>
         <p>Changed first physics article</p>
         <h2>9/24/2020 12:48 pm</h2>

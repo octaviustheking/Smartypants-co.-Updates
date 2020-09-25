@@ -7,6 +7,8 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>9/25/2020 11:32 am</h2>
+        <p>New Volume added - Volume Five</p>
         <h2>9/25/2020 11:08 am</h2>
         <p>New volume coming soon!</p>
         <h2>9/25/2020 11:06 am</h2>

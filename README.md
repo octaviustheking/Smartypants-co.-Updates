@@ -7,10 +7,12 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>9/25/2020 7:24 pm</h2>
+        <p>Added new article in Volume Five</p>
         <h2>9/25/2020 11:32 am</h2>
         <p>New Volume added - Volume Five</p>
         <h2>9/25/2020 11:08 am</h2>
-        <p>New volume coming soon!</p>
+        <p>New volume added to the "Coming Soon!" section</p>
         <h2>9/25/2020 11:06 am</h2>
         <p>Added 2 new books to Smartypants Books</p>
         <h2>9/24/2020 12:50 pm</h2>

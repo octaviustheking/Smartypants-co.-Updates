@@ -7,6 +7,8 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>3/25/21 8:02pm</h2>
+        <p>New volume added - Volume Six</p>
         <h2>10/10/2020 5:17 pm</h2>
         <p>Replaced Smartypants News with Smartypants Studios</p>
         <h2>10/4/2020 1:18 pm</h2>

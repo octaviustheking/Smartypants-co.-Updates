@@ -7,6 +7,8 @@
     </head>
     <body>
       <h1>Updates</h1>
+        <h2>1/31/22 6:44pm</h2>
+        <p>Game Center Added!</p>
         <h2>3/25/21 8:02pm</h2>
         <p>New volume added - Volume Six</p>
         <h2>10/10/2020 5:17 pm</h2>
